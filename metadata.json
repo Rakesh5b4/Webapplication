@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Weather App",
+  "description": "A sleek, modern weather application powered by the Gemini API. Enter a city to get real-time weather conditions, including temperature, humidity, wind speed, and more, all presented in a beautifully designed interface.",
+  "requestFramePermissions": []
+}
